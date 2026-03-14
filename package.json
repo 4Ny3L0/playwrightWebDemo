@@ -1,0 +1,25 @@
+{
+  "name": "playwrightwebdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4Ny3L0/playwrightWebDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/4Ny3L0/playwrightWebDemo/issues"
+  },
+  "homepage": "https://github.com/4Ny3L0/playwrightWebDemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
